@@ -84,24 +84,22 @@
 
 ---
 
-### 🌎 Nature & Sustainability First
+### 🫂 We Must Protect Nature
 
-> "Technology means nothing if it forgets its roots. Let’s code with conscience.  
-> Respect every **leaf**, every **life**, and every **voice unheard**." 🌾🐦🌳
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1400&q=80" alt="Protect Nature" width="100%" />
+</p>
 
-- 🌿 Advocate for sustainable living  
-- 🐾 Kindness toward all animals and plants  
-- 🧘‍♂️ Say no to greed, and yes to mindful innovation  
-- 🤝 Build for the underserved, uplift rural and poor communities
+> 🧭 **Technology should be our bridge to a better planet, not a tool of destruction.**  
+> Let us **think before we build**, **respect before we extract**, and always act with **compassion** — for the Earth, for its life forms, and for every soul in hardship.  
+> 💚 **Kindness to plants and animals is not weakness; it’s wisdom.**
 
 ---
 
-### 🎨 Aesthetic Vibes
+### 📅 Contribution Graph
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xpushpraj&theme=react-dark&bg_color=0D1117" />
 </p>
 
 ---
