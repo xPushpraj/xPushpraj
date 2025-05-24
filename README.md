@@ -87,7 +87,8 @@
 ### 🫂 We Must Protect Nature
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1400&q=80" alt="Protect Nature" width="100%" />
+  <img src="https://github.com/xPushpraj/pushpz/blob/main/Leonardo_Phoenix_10_Splitscene_illustration_with_two_contrasti_0.jpg?auto=format&fit=crop&w=1400&q=80" alt="Protect Nature" width="100%" />
+
 </p>
 
 > 🧭 **Technology should be our bridge to a better planet, not a tool of destruction.**  
