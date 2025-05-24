@@ -1,10 +1,6 @@
 <!-- Profile README for Pushpraj Patel -->
 
 <p align="center">
-  <img src="https://github.com/xpushpraj/xpushpraj/assets/your-banner-id/banner.gif" alt="Pushpraj Patel Banner" style="max-width: 100%;" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Pushpraj+Patel+%F0%9F%91%8B;AI+%2F+ML+Enthusiast+%7C+Creative+Coder+%7C+Sustainability+Advocate;I+build+solutions+for+a+better+tomorrow+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
