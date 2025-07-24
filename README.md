@@ -42,7 +42,7 @@
 |--------------|-------------|------|
 | 🧍‍♂️ **Human Body Dimension Measurement** | Using Intel RealSense Depth Camera for body measurements | <a href="https://github.com/xPushpraj/realsense-camera" target="_blank" rel="noopener noreferrer">GitHub Repo</a> |
 | 🌿 **Plant Detector Web App** | Identify Indian medicinal plants from images | <a href="https://github.com/xPushpraj/Plant_detector" target="_blank" rel="noopener noreferrer">GitHub Repo</a> |
-| 📘 **Notely.site** | Notes sharing platform for learners | <a href="https://notely.site" target="_blank" rel="noopener noreferrer">In Progress</a> |
+| 📘 **notely.space** | Notes sharing platform for learners | <a href="https://notely.space" target="_blank" rel="noopener noreferrer">In Progress</a> |
 | 🌾 **Crop Traceability QR** | QR-based wheat traceability system for farmers | In Progress |
 
 ---
