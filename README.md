@@ -75,7 +75,7 @@
   <a href="https://x.com/farmfrontiers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://youtube.com/@farmfrontiers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://farmfrontir.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/My+Website-00C897?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://notely.site" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Notely+Notes-4E5D94?style=for-the-badge&logo=readme&logoColor=white" /></a>
+  <a href="https://notely.space" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Notely+Notes-4E5D94?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </p>
 
 ---
